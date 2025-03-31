@@ -1,6 +1,3 @@
-Aqui está um modelo para o arquivo `README.md` para o seu projeto:
-
-```markdown
 # Projeto de Processamento de Arquivos CSV e ZIP
 
 Este projeto é uma aplicação em Java que realiza a extração, processamento e compactação de arquivos CSV, incluindo a substituição de valores em colunas específicas. O fluxo de trabalho do projeto envolve a extração de um arquivo PDF de um arquivo ZIP, o processamento dos dados extraídos, a substituição de valores nas colunas e a geração de um arquivo CSV, que é posteriormente compactado em um arquivo ZIP.
@@ -26,7 +23,7 @@ src/
         ├── ExtrairDados.java    # Classe para extrair dados do PDF
         ├── Substituir.java      # Classe para substituir valores nas colunas
         ├── Main.java            # Classe principal que orquestra a execução
-```
+
 
 ## Como Usar
 
