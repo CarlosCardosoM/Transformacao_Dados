@@ -15,7 +15,6 @@ Este projeto utiliza apenas a biblioteca padrão do Java. Certifique-se de ter o
 
 ## Estrutura do Projeto
 
-```plaintext
 src/
   ├── org/example/
         ├── Csv.java             # Classe responsável por salvar CSV e compactar em ZIP
